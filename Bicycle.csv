@@ -1,0 +1,11 @@
+﻿BicycleID,Status,PointID
+101,Available,P001
+102,Available,P002
+103,In Use,P003
+104,Available,P004
+105,Available,P005
+106,In Use,P006
+107,Available,P007
+108,In Use,P008
+109,Available,P009
+110,Unavailable,P010
